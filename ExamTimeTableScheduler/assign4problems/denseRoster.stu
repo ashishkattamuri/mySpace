@@ -1,0 +1,800 @@
+chem200	eng100	hist220	hist330
+bio440	chem250	cs301	hist151
+cs220	hist480	math401
+bio151	chem330	eng480	math330	math420
+bio220	cs195	math100
+chem480	hist220	math330
+bio100	bio210	chem301	chem420	cs360
+eng100	hist390
+bio360	chem100	math250
+chem400	hist400
+bio100	bio195	bio250	eng100
+bio151	cs210
+bio400	chem250	eng390	hist100
+bio420	chem400	eng420	hist151
+bio400	chem250	hist480	math100	math400
+bio300	cs151	hist300	math100	math300
+eng440	math480
+hist100	math100
+bio100	bio210	cs100	hist440
+bio195	bio440	cs420
+bio210	chem100	chem480	eng100	eng400
+bio300	hist100
+eng330	hist300
+cs400	eng220	hist420	math100	math195
+bio400	cs200	cs300	cs400	eng220	eng480
+eng301	eng330	hist360	hist420	math220
+cs210	cs220	cs360	eng300	math300
+bio490	cs100
+cs200	cs400	eng210	hist195	hist200	math390
+bio100	cs250	cs390
+bio100	bio151	cs490	math200	math250
+chem195	cs210	cs301	eng360
+bio420	chem195	chem390
+chem300	chem301	cs440	hist400
+bio210	chem330	math100	math300
+bio490	chem210	eng440	hist200	hist490
+chem151	hist200	math151	math195	math490
+bio210	chem195	hist100	hist490	math250
+cs400	eng200	eng250	math100	math250
+bio100	chem100	chem300	chem301	eng490
+chem210	chem400	cs390	math100	math440
+eng220	hist490
+chem100	eng100	eng401	hist440	math250
+chem100	eng100	eng210	math200
+bio200	eng440	hist301	hist480
+chem100	chem200	math100
+bio100	bio200	bio390	chem195	math100
+chem400	eng100	eng401	math100
+bio210	cs390	eng100	eng300	hist440
+bio151	bio480	chem330	math300	math480
+cs100	eng100	hist480
+cs100	eng250	eng301	eng330	hist100
+eng100	hist100
+bio330	eng330
+bio440	chem301	hist151
+bio250	chem200	cs440	math100
+bio220	chem151	cs420	hist250	math301	math360
+cs490	eng100	math100	math301
+chem100	eng100
+cs100	eng100	hist480
+bio490	hist151
+cs301	cs401	hist301
+chem100	cs100
+bio100	eng420	math100
+bio440	chem100	chem360	math100
+bio100	bio195	eng250
+bio330	chem480	eng250	eng360	hist151	hist250
+cs220	eng100	hist330
+bio400	chem200	chem390	cs360	cs390
+cs301	eng195	hist100	math195
+eng100	hist100
+bio100	cs401	cs420	eng440	math330
+chem330	chem420	hist400	math301
+chem200	hist400	math100	math330
+chem220	eng360	eng490	hist301
+chem210	chem390	chem420	chem490	cs390
+bio210	bio401	chem195	eng360	math480
+chem400	chem480	eng400
+chem420	eng151	hist250	hist300	math220
+bio100	chem220	cs100	hist420	math400
+bio220	chem151	eng301	hist300
+chem151	chem200	eng440	math300
+chem480	cs300	eng440	math420
+chem100	hist100	hist401
+bio330	bio420	bio490	chem390	math400
+bio151	hist100
+chem330	chem490	cs360	eng195	math400
+cs480	math490
+bio100	cs220	math100
+chem420	cs195	math100	math390	math490
+bio250	chem250	cs195	hist151	hist401
+chem195	hist300
+eng390	hist195
+chem100	cs360
+bio200	bio400	bio480	cs330	math195	math440
+cs100	math440
+chem100	chem300	hist100
+bio195	eng100
+chem401	cs390	eng250	math401
+cs100	hist100
+eng100	math100
+bio390	eng250	math480
+bio151	bio390	chem300
+cs301	eng480
+bio360	cs210
+hist100	hist330
+bio360	chem195	chem400	math100
+chem250	chem300	chem360	cs400	eng480
+hist100	math100
+bio151	bio401	eng301	eng420
+chem250	eng401	math250	math440	math480
+bio301	cs195	cs220	eng151	math390
+chem301	eng400
+bio100	math100
+chem390	eng390
+bio100	bio151	bio210	chem100
+bio151	eng100	hist151	math200
+bio220	bio330	cs300	eng300	eng401
+bio100	bio440	chem100
+chem440	eng100	math250
+bio100	eng390	hist100	math301
+bio400	chem400	hist151
+bio220	chem100	cs100
+bio420	chem420	cs100	cs300	hist490
+chem250	chem330	chem400	math100	math220
+chem100	hist100
+chem195	math360
+bio401	chem400	chem440	cs330	eng360	math401
+cs400	hist480
+bio300	cs490	math200	math400
+cs360	eng250	hist100
+bio360	chem195	eng490	hist100	hist480
+bio301	cs100	math100	math210
+bio100	bio390	hist440	hist490	math200
+bio401	chem490	cs300	hist100	hist360
+chem100	eng100	math400
+eng100	math195
+chem100	eng151
+cs390	eng100	hist401
+chem151	hist330	math200
+chem220	chem420	eng300	math480
+bio250	bio301	bio400	chem301	math210
+chem250	chem360	chem390	math390
+cs390	math300
+bio100	bio390	chem200	cs100	math151
+chem250	eng301	hist210	math330
+bio151	bio210	bio250	bio490	eng250	eng301
+chem300	hist100	math301
+chem100	chem210	eng250
+eng100	eng360	eng480
+eng100	eng420	hist100
+cs490	hist300	hist360	math390	math400
+bio100	cs330	eng195	hist301	math210
+bio420	cs401	eng330
+bio480	eng250	hist480
+chem300	eng100	eng420	math100	math490
+bio210	chem210	eng220	eng330	math220	math250
+bio360	chem100	chem401	eng440
+chem401	eng100	math195
+cs100	eng250
+cs250	eng300	eng490	hist330	math330
+bio360	chem100	eng210
+bio100	chem400	eng100
+chem100	cs100
+cs100	cs440	hist480	math200	math301
+cs100	hist100
+eng100	math100
+cs100	cs220	cs490	eng100
+hist100	hist401
+bio250	chem195	cs210	hist200
+chem100	cs100	cs300	hist400
+chem100	eng100	math200
+cs250	hist220	math151
+cs200	math195
+bio330	chem300	chem420	math401
+bio100	eng330
+bio440	chem400	eng401	math195
+eng100	hist100
+eng100	math100
+bio400	cs330	cs401	hist100	hist440
+bio100	bio401	cs100	math250
+bio400	eng195
+chem200	cs195	cs480	hist151
+bio100	bio220	eng100	eng250	math440
+bio480	chem151	chem480	math250
+bio100	chem401	cs151	hist100
+bio420	chem100	hist100
+bio360	chem301	eng220	eng401	hist360
+bio300	chem360	cs490	eng390	eng400
+bio390	chem100	chem220	eng301	math210
+bio420	chem151	eng220	eng400	hist360
+bio200	bio301	chem220	chem480	chem490	cs390
+hist100	hist151	math100	math195
+bio440	bio490	chem490	eng300	hist301
+chem250	chem301	cs151
+bio200	bio301	cs250	eng420	eng480
+bio400	eng330
+chem360	cs401	hist151	math440
+chem100	cs100	hist250
+bio390	cs360	cs440	eng440	hist390
+bio330	bio480	chem301	hist300	math301
+chem220	hist100	hist151
+bio490	cs440	eng100
+bio480	chem400	chem480
+bio330	hist400	math420
+chem100	math100
+bio250	chem440	cs390	eng360
+cs300	eng100	math100
+chem100	chem210	chem301
+chem301	cs400	hist300	math151	math300	math301
+cs220	cs420
+bio100	bio250	math100
+bio151	cs100	hist300
+chem301	chem480	eng100
+chem330	hist300	hist420
+bio151	bio401	math220
+chem195	chem250	eng100	hist480	math100
+bio195	chem300	chem390	hist250
+bio300	bio400	chem151	chem301
+eng100	math100
+cs100	eng100
+eng490	math210
+bio360	cs250	cs330	eng440	hist480
+bio100	hist100	hist360	math210
+hist100	math200
+bio195	chem480
+bio300	bio330	cs440	hist100	math220
+cs300	eng100	eng480	hist200	hist400
+cs420	math440
+chem250	cs200	cs480	eng390
+bio220	hist360
+cs200	eng400
+chem200	cs301	eng480	hist100	math420
+bio360	chem360	hist100
+bio100	bio151	bio480	math100	math200
+bio480	cs250	math100	math301
+bio490	chem400	chem401	hist250	math200
+bio401	bio420	cs100	hist250
+chem301	chem390	eng400
+chem300	math420
+cs210	cs440	hist220	hist420	hist440	math151
+bio401	bio490	chem220	cs195	math400
+cs195	eng100
+bio401	chem151	eng360	math100
+bio100	eng100
+bio400	hist200	hist490
+bio210	eng390	hist210	math200	math360
+bio100	chem330	cs100	math480
+chem200	hist100	hist440
+bio420	chem480	cs401	eng400	eng401	math440
+chem100	hist220	math401
+bio100	bio300	chem100
+bio200	cs330	hist220
+bio301	bio480	eng220
+bio360	bio420	eng210	eng490
+eng401	math151
+bio210	cs401	eng200	hist195	math151
+bio100	cs330	eng250	hist151
+bio490	eng400	math195
+bio151	chem250	math300
+cs400	eng210
+eng301	hist195	hist250
+bio250	chem151	chem200	chem301	eng210	eng360
+chem301	chem330	chem401	chem420	hist195
+cs360	math100	math480
+bio151	cs100	eng490	hist480
+chem250	chem400	chem440	eng250
+eng220	hist151
+bio151	bio250	bio301	cs100	hist360
+bio151	math100
+chem220	chem490	cs300	cs401	math360	math440
+bio220	chem440	eng401	hist250	hist390	math400
+chem301	cs390	eng200	hist440
+bio440	cs360	hist100	hist210
+chem195	cs480	eng360	math250
+chem100	hist100	hist360
+chem100	cs480
+bio100	eng200	hist100
+chem100	chem401	hist100	hist401	hist490
+chem210	cs195	math195	math300
+bio100	eng100
+bio490	eng200	hist250	hist401
+bio100	bio300	hist401	math100
+bio250	chem420	cs300	hist220
+bio390	eng330	math195
+eng100	math100
+bio200	cs195	math220
+chem151	eng330	hist220	hist400	math151	math401
+cs151	hist420	math250
+bio100	cs400	eng250	math100	math220
+bio100	hist100
+cs220	eng420	hist100	math100
+bio210	eng210	eng220	eng330
+bio440	cs360	math100	math330
+chem100	chem360	eng200	hist100	hist220
+chem390	cs100	cs220	eng195	hist210
+bio360	chem250	cs151	hist360	math330	math360
+chem250	chem440	eng401
+chem401	hist210	hist360	hist400	hist420	math301
+bio151	eng400	hist210	hist360	hist390	hist401
+bio401	eng151	eng210	hist300
+bio390	chem360	chem390	chem420	math200
+math100	math420
+cs420	hist300
+cs200	eng100	eng401	hist151
+bio401	cs100	hist100
+chem100	cs151	hist100	hist490
+bio360	bio390	eng200	hist210	hist360
+chem480	cs490	eng210	eng401	hist480
+bio220	cs100	cs420	hist300	hist360
+cs250	eng300	eng301	hist151	hist330	math480
+eng420	hist210
+bio250	bio490	chem360	math200
+bio100	bio301	eng330	math100
+bio360	math390
+bio401	hist200
+cs151	hist200	hist300
+cs401	hist210
+bio401	chem220	eng250	hist420
+chem250	chem301	eng401	math360
+chem330	chem390	eng480	hist195
+cs151	cs300	eng100	hist151
+eng100	math100
+chem250	cs360	hist250
+bio300	chem100	chem200	cs195	math401
+chem100	cs400	eng330
+chem400	cs100	eng401	math100
+cs100	cs300
+cs420	math100
+hist300	math210
+bio330	chem220
+bio490	hist440
+chem390	cs480	eng100	eng400	math100
+bio195	bio490	cs210	math250
+cs100	hist301	math220	math301
+hist100	hist330
+chem360	eng195	eng401	math401
+bio200	bio390	eng480	hist480	math420
+eng250	hist195	math420
+chem360	hist100
+bio100	chem420	cs220	math390
+chem360	cs100	hist300
+bio100	math100	math195
+bio420	chem401	cs100	hist420	math100
+bio195	hist301
+bio300	chem195	cs195	eng360	hist195
+bio220	cs100	hist200
+bio151	bio330	bio401	math360	math480
+bio100	bio195	eng250
+bio250	bio420	chem390	chem420	eng151	hist440
+cs100	eng100	math151
+chem195	eng390	hist250
+bio200	cs250	hist300	math100	math200
+cs100	eng250	hist200	math300
+chem195	chem210	cs100	cs420	math480
+bio151	bio220	bio300
+chem200	chem301	cs390	math151
+math100	math301
+chem100	eng300	math301
+bio330	cs200	cs210
+bio100	chem100
+bio330	bio401	chem490	cs250	hist301	math330
+chem151	chem300	cs300	hist440	math330
+bio400	chem330	eng390	eng420	hist490
+eng100	eng250
+chem210	cs100
+cs100	eng151
+cs100	hist100
+bio360	bio480	bio490	hist100	math220
+cs301	hist100	math100
+bio210	eng195	eng400
+cs100	eng100	math300	math401
+chem100	hist330	hist390
+cs100	eng100	math480
+bio390	hist480	math100	math151
+chem151	chem210	chem360	cs100
+chem301	eng195	hist100
+chem360	cs401	math420
+chem401	cs100	hist220	math100	math220
+cs100	cs490	hist100
+chem195	cs151	cs300	hist250
+bio250	eng151	eng210	eng301
+chem210	hist300
+cs100	hist100
+bio210	hist490
+hist200	math401
+chem100	cs440	eng390	hist100
+bio151	cs300	eng100
+eng400	hist480
+bio100	cs100	hist301
+bio390	hist390
+bio100	hist100
+hist300	hist360	math195	math440
+chem300	hist100
+chem100	cs100	hist400	hist401
+bio100	cs480
+chem401	eng100	hist301	math360
+bio400	chem490	eng220	math330
+chem300	chem401	hist300	math390
+eng210	eng300
+chem100	hist100
+bio401	chem301	cs360	eng390	eng420
+cs210	eng100	hist100	math220
+bio100	cs100
+bio360	bio401	eng100	eng330	hist195
+bio151	bio360	hist440
+cs195	cs330	eng400	hist490	math301
+bio301	chem100	cs100	eng195
+eng400	math100
+chem400	eng220	hist200
+chem210	chem480	eng200
+eng100	eng420	hist301
+chem100	eng100	hist440
+bio490	chem401	chem440	hist195	math250	math440
+bio390	chem220	cs100	eng100
+bio330	eng301	eng390
+cs100	math100
+bio250	chem420	eng420	math250	math440
+chem100	chem400	hist100	hist210
+cs480	math420
+chem220	cs300	hist195	math360	math440
+cs300	eng440	math390	math401
+bio200	cs100	cs360	hist480	math401
+hist200	hist360
+bio200	chem300	eng210	eng440
+cs100	eng151
+bio300	chem200	cs200	cs210	hist220
+chem100	eng100	eng300
+bio360	bio390	hist100	math100
+bio301	cs330	hist420	math420
+cs400	hist360	math390	math400
+bio200	bio210	chem250	chem330	eng490
+eng151	eng200	eng440	math400
+bio220	chem200	hist100	hist151	hist360
+chem250	chem401	eng480	eng490	hist301
+bio390	chem100	chem200	cs151
+chem151	chem390	chem420	math420	math480
+bio360	cs440	hist100	hist210
+bio210	chem200	cs440	math300
+bio250	chem100
+bio100	hist100	math200
+bio301	math420
+chem100	eng100
+bio300	bio390	cs210	eng440	math200
+bio250	chem250	math490
+chem401	math480
+bio390	chem200	chem440	eng200	eng210	eng330
+bio490	chem301	eng220	math300
+cs210	eng390
+chem195	cs400
+chem151	eng151
+chem195	eng301	eng390	hist360	math195
+bio301	bio480	hist440	math250	math440	math490
+chem401	cs360	cs440	eng390	eng400	eng490
+cs360	hist300	math100	math480
+bio401	math151
+chem200	chem300	eng390
+bio200	bio400	chem360	eng220
+chem100	cs300
+bio250	cs330	cs480	math330
+chem220	cs401	cs420	eng400	math220
+cs301	cs490
+bio401	chem210	eng151	eng330	math250	math401
+bio100	hist100	math210
+cs100	math301
+cs195	eng220
+hist100	math100
+bio100	eng390	hist195
+bio200	bio220	math400	math490
+bio100	cs100
+cs100	cs151	eng100	eng440	math400
+bio390	chem300	cs200
+cs401	hist400	math440
+chem100	cs490	eng220
+bio100	cs100
+bio100	bio390	chem360	math220
+chem401	hist210	math195
+cs390	cs401	cs490	eng220	hist300
+cs195	eng250	eng301
+chem330	chem400	chem490	hist200	math401
+bio480	chem440	math151	math250
+bio151	bio220	cs100	eng220	math390
+eng330	hist480	math300	math360
+bio401	chem301	eng100	eng151	hist330
+hist100	math100
+cs100	math200
+chem390	chem440	cs360	cs420	hist210
+eng300	hist195	math490
+chem100	eng100
+chem330	cs200	eng250	math301
+eng100	math100
+bio400	cs360	eng100	eng490
+bio301	cs100	eng100	eng210	math390
+bio100	hist100	hist151	hist420
+bio100	hist250	hist401
+bio220	bio390	chem390	eng440	hist195	math151
+chem301	chem401	cs301	eng220
+chem195	eng151	math200
+bio220	bio400	math301
+bio220	bio490	chem210	chem400	hist390
+bio200	chem100	eng400
+bio330	chem220	eng490	math490
+chem330	chem401	math100
+bio250	chem220	cs401	eng360
+chem401	cs220	cs400	hist390	math330
+chem250	hist330
+bio330	bio400
+chem220	chem301	chem360	cs330	hist220
+chem100	chem210	eng100	eng151	hist401
+cs100	eng400	math100
+cs100	eng300	hist301
+chem420	hist300	math330
+bio195	bio301	chem360	chem480
+chem220	hist440	math100	math195
+bio100	eng100	eng301	eng490	math420
+bio480	chem300	cs401	hist100	math490
+bio300	chem330	chem490	eng400	hist195	hist250
+bio100	cs440	eng360	math210
+bio200	chem390	cs220
+hist401	math200
+eng100	eng195	math420
+bio480	chem210	cs401	eng480	math490
+bio195	chem420	cs100	cs390	hist420
+chem100	chem220	cs390	hist100	hist301
+bio151	chem300	hist250
+bio400	chem440	cs440	math301
+bio490	chem480	cs100
+bio420	chem360	eng100	hist100
+chem195	chem300	eng100	hist100
+bio100	chem330	cs100	math220
+bio301	chem490	hist480
+bio390	hist100
+bio200	math195
+bio401	chem200	chem490
+bio360	chem360	eng300	hist250	math390
+chem100	hist100	math151
+chem400	chem490	eng100	eng480
+bio490	chem195	hist210	hist490	math400
+eng390	hist220	hist330	hist400
+bio301	cs200
+bio300	chem250	eng301	math151	math401
+bio100	cs100	math220
+chem330	cs480	eng100
+chem100	chem300	chem400	eng151	eng220
+bio100	bio220	math100	math301	math420
+bio250	chem301	cs100
+cs420	hist100
+chem360	hist151	hist250	math220	math420
+chem220	chem390	cs300	eng360
+chem401	cs100	cs200	cs440	hist301
+bio480	hist210	hist360	math401
+eng220	hist220	hist360
+bio420	bio440	chem480	hist210	math440
+bio401	cs360	cs400	cs420	eng195
+bio200	math100
+bio210	eng420	hist401	math360
+bio490	cs420
+eng195	hist420
+chem300	eng100	math301
+chem195	cs151	math330
+bio330	cs100	eng195
+hist301	math195
+bio300	chem300	cs100	hist301	math195
+eng250	eng420	hist100	math100
+hist300	math301
+bio220	chem360	cs301	eng330	hist200
+chem100	cs151	cs420	eng480
+hist440	math250
+chem220	chem330	cs301	eng200	math200
+eng100	math220
+cs100	hist100
+bio151	chem300	cs250	cs490	math400
+bio300	bio400	hist300
+bio300	chem400	math300
+bio400	bio401	chem330	eng390	hist220	math360
+bio401	chem100	cs400	eng400	math400
+chem100	chem200	chem480	cs151	eng480
+bio100	bio210	cs250	hist401	math360
+eng100	hist330	math100
+cs100	cs401	hist420
+bio100	eng220	eng390	eng400	eng420
+bio100	hist100	math210	math480
+cs480	eng100	eng330	eng360	math100
+bio100	hist100	hist220
+bio220	chem490	eng200	eng490	hist210	math250
+bio100	hist390
+bio220	cs220	eng401
+bio100	hist100
+bio195	chem401	cs200	cs480	cs490	math300
+bio200	bio300	chem300	hist360	hist490
+bio330	chem440	hist220	hist440
+chem300	cs100	cs300	eng250
+bio360	chem301	cs151	math330
+bio440	chem440	cs195	cs210	eng330
+chem420	cs195	cs390	eng400	hist250	math490
+chem301	eng151	eng390	hist480
+bio390	bio490	cs490	eng360	math480
+bio220	cs360	cs400	eng301	hist400	hist490
+chem100	cs100	eng400
+bio210	cs300	hist210	math360
+chem420	cs100	cs200	cs301	math330
+bio300	bio480	bio490	chem210	cs100
+bio100	cs100
+chem200	hist200	math100
+bio220	cs400	eng400	hist300	math151
+bio100	chem100
+chem220	cs151	cs400	eng100	math480
+bio420	chem151	hist100
+bio100	chem100	cs440
+bio420	chem195	chem390	cs250	eng401
+bio401	bio480	chem210	chem400	hist420
+bio100	hist100	hist400	math151	math360
+cs151	hist210
+hist200	hist210	math100
+chem100	math100	math200
+bio195	bio420	chem100	eng250
+chem100	chem401	cs100	hist330
+bio401	chem480	cs210	cs360
+chem490	cs200
+bio301	bio330
+bio440	bio490	chem200	eng440
+chem100	cs480	hist100	hist440
+bio490	chem250	chem480	math440
+chem490	eng490	hist401	math151	math200
+cs210	math195
+bio200	chem250	hist330	hist480
+eng195	eng490	hist250	hist301	math195
+cs401	eng151	hist360
+chem100	cs401	cs440	cs480	math100
+chem100	math440
+bio401	cs100	math200
+cs100	hist420
+bio100	bio330	cs210	eng151
+bio490	cs390	cs401	eng151	eng400	math390
+bio480	eng490
+bio100	math100
+bio210	bio250	cs210	cs220
+bio401	eng151	eng401	hist210	hist220	hist300
+bio250	bio301	bio490	math200
+chem220	chem300	math210	math490
+chem490	cs100	hist490	math100
+bio490	cs400	hist151	math210
+bio480	chem210	math480
+chem390	chem480	eng401	math250
+bio440	eng100
+bio400	chem300	eng360	eng420	eng440	math220
+chem100	chem195	chem360	math360	math401
+chem195	chem330	eng401	hist360
+bio220	eng300	hist100	math100	math220
+bio400	cs100	math360
+bio210	eng390	hist330	math300	math330	math420
+cs100	cs250
+chem151	chem400	cs200	cs301	eng301	math300
+chem100	eng100
+chem100	cs100	eng440	hist250	math400
+bio330	chem390	math210	math250
+bio440	chem220	eng300	eng301	eng440
+hist100	hist490	math400
+bio330	cs200	cs360	eng301	hist210	math490
+cs210	cs420	cs480	math195	math301
+bio151	bio210	cs300	cs490	hist480	math401
+chem195	chem401	eng200	math250
+hist100	hist200
+chem100	hist100	math360
+bio100	eng420	hist100	math490
+chem420	cs420	hist151	hist360	hist480
+bio440	cs100	cs200	cs400
+cs360	eng360	hist100
+chem100	cs210	eng100	hist195
+chem390	cs401	eng440	hist250	math220
+chem490	math390
+bio100	chem100	chem195	cs300	hist420
+chem200	hist151
+chem400	chem401	hist210	math100	math490
+bio151	bio390	eng210
+chem330	eng360	eng400	math195
+eng100	math100
+bio151	cs300	cs360	hist301
+bio100	bio401	math195
+cs100	eng100
+bio100	eng360
+bio151	cs440	math100
+cs250	eng100	eng390	math100
+cs100	hist480
+hist220	math420
+chem151	hist151	hist250	math401
+bio100	cs100
+bio220	chem401	hist300	math200
+bio330	eng210	eng390	hist390
+eng210	hist490	math401
+bio220	bio480	eng301	hist220
+bio250	cs100	eng300	eng480	hist210
+chem390	hist360
+eng100	eng400
+chem195	eng250	eng440	hist100	math100
+bio440	eng480	eng490
+cs301	cs330
+bio220	chem390	chem400	math100
+eng390	hist100
+eng100	math220	math420
+chem300	cs195	cs440	eng400	hist195	math490
+bio210	cs100	cs440	eng400	math210
+cs100	eng220	hist100
+chem490	math210	math300
+bio200	math100	math300
+bio440	cs440	eng250	math250
+cs250	eng420	hist480
+chem100	eng390	eng480	hist220	hist390
+bio100	math100
+bio100	eng100	hist480
+cs490	hist210
+cs400	eng220	eng390	hist100	math330
+chem390	math401
+chem301	eng200	eng360
+bio400	cs100	eng220	math300
+cs390	hist100
+chem200	chem490	math440
+math100	math200	math250
+hist200	hist300
+bio300	cs440	eng100	hist100
+math151	math220
+chem100	eng390	math100
+chem200	hist100	hist195	hist300	math390
+chem390	cs200	eng195
+chem360	cs490	math210
+bio100	eng151
+bio300	chem151	cs360	eng330	hist400
+bio100	hist440
+chem195	cs420	hist100
+eng100	eng330	eng390
+bio100	cs210	eng100	eng360	math360
+bio301	chem210	cs330	eng100	math400
+chem100	hist100
+chem100	eng100	math420
+bio210	cs360	hist100	hist301	math195
+cs390	eng100
+bio360	eng390	hist401	math360
+hist100	math100
+bio100	cs100	hist301	math210
+bio420	chem100	chem210
+chem195	eng360
+bio301	bio440	eng151	math210	math390	math401
+bio401	chem250	cs440	eng200	eng400	math300
+bio100	bio195	cs301	eng400	math330
+bio210	chem440	cs300	hist250
+bio300	chem400	math220
+hist100	math490
+bio210	bio330	chem480	hist220	math210	math401
+bio220	cs400	eng100
+chem330	eng195	eng420
+chem420	hist210	hist490	math100
+bio330	cs250
+bio390	chem360	cs440	math360
+chem330	cs250	math100
+chem100	chem400
+bio195	chem210	cs151
+bio100	chem100	hist420
+bio390	chem151	cs490	eng440	hist390
+bio390	chem151	hist360
+cs390	hist490
+bio360	chem250	cs100	hist300	math100
+chem440	cs210	eng220	eng301	math151	math400
+bio220	eng440
+chem100	cs100	math195	math400
+eng480	hist360
+bio100	eng100
+bio100	hist100	math390	math420
+chem220	hist100	math151
+eng100	hist420
+chem250	chem300	cs200	eng390	hist400
+chem300	chem330	cs220	cs300	hist360
+cs151	cs490	math400	math420
+chem100	chem300	chem301	eng480	math100
+cs390	eng401	hist440
+bio420	cs210	eng490	hist301	math360
+bio195	cs210	eng250
+bio100	chem220	eng250	eng400
+bio401	chem100	chem250	chem480	eng300
+cs100	eng100
+hist100	math400
+bio100	hist100
+chem301	eng330	hist200	hist401
+cs100	hist330
+bio400	chem100	cs100	math420	math490
+bio440	chem420	cs301	math480
+chem100	hist100
+eng100	hist100	math220
+chem195	chem440	eng390	math100
+chem400	eng300	math420
+bio401	chem420	cs100
+bio400	chem480	chem490	eng195	hist220	math151
+chem210	cs400	cs490	hist151	hist300	hist301
+bio401	hist330	hist401	hist420	math220	math250
+bio480	eng100	eng330	math250
+hist480	math420
+chem360	chem490	eng200	math200
+bio360	cs195	eng220	hist300
+chem210	cs151	cs301	hist220	hist400	hist401
+cs100	hist100
+bio151	cs151	cs250	cs400	math301
