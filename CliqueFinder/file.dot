@@ -1,0 +1,20 @@
+graph G {
+u-- 
+
+
+w; /* a comment */
+	w -- r;/* an edge between w and r */
+w--s;
+s -- u;
+				ss--u;
+r--   cat
+	cat    -- dog;
+dog -- fox;
+fox -- r;
+r--dog;
+cat--fox;
+car--m;
+m--ss;
+nn--1v2;
+t; /* a node that doesn’t have any incoming or outgoing edges */
+}
