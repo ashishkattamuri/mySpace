@@ -1,0 +1,5 @@
+mySpace:18081,http://www.bmb.colostate.edu
+mySpace:18082,http://www.biology.colostate.edu/
+mySpace:18083,http://www.chm.colostate.edu/ 
+mySpace:18084,http://www.cs.colostate.edu/cstop/index.html  
+mySpace:18085,http://www.math.colostate.edu/  
