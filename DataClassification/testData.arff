@@ -1,0 +1,37 @@
+@relation test
+
+@attribute almond numeric
+@attribute black numeric
+@attribute blue numeric
+@attribute brown numeric
+@attribute copper numeric
+@attribute coral numeric
+@attribute aquamarine numeric
+@attribute gold numeric
+@attribute gray numeric
+@attribute green numeric
+@attribute magenta numeric
+@attribute maroon numeric
+@attribute orange numeric
+@attribute purple numeric
+@attribute red numeric
+@attribute silver numeric
+@attribute violet numeric
+@attribute yellow numeric
+@attribute beige numeric
+@attribute aqua numeric
+@attribute cyan numeric
+@attribute navy numeric
+@attribute lime numeric
+@attribute azure numeric
+@attribute chocolate numeric
+@attribute indigo numeric
+@attribute oceanblue numeric
+@attribute plum numeric
+@attribute seagreen numeric
+@attribute turquoise numeric
+
+@data
+187.967581,0.31076,0.8,0.671642,1243,0.4701,87,0.7129,147,0.367788,0.686904,11.8,1,13.8111,0.0125,0.3108,62,17.82,2790,0.31,91,13.811111,0.04046,2790,7.92,47.70522,71.29,15.46,0.61194,0.712889
+237.93578,0.337027,0.56,0.798246,877,0.5439,70,0.4791,99,0.408126,0.659991,8.9,1,9.63736,0.070922,0.337,48.13,11.98,2190,0.34,74,9.637363,0.09474,2190,7.1,95.03716,47.91,20.56,0.649123,0.479121
+238.095238,0.6026,0.131429,0.2,1270,0.79,4,0.42,113,0.9768,0.391313,4.1,1,63.5,0.012059,0.6026,301.3,73.5,3013,0.11,38,63.5,0.23256,3013,0.82,115.384615,42,30.13,0.48,0.42
